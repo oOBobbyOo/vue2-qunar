@@ -1,27 +1,20 @@
-# vue3.0-qunar
-
-## Project setup
+# Vue3.0+vue-router+vuex 开发去哪儿网 WebApp
 
 ```
+// git clone
+git clone https://github.com/oOBobbyOo/vuu3.0-qunar.git
+
+// Project setup
 npm install
-```
 
-### Compiles and hot-reloads for development
-
-```
+// Compiles and hot-reloads for development
 npm run serve
-```
 
-### Compiles and minifies for production
-
-```
+// Compiles and minifies for production
 npm run build
 ```
 
-### Lints and fixes files
+##预览
+![qunar](./src/assets/qunar.gif)
 
-```
-npm run lint
-```
-
-http://touch.piao.qunar.com/
+参考：http://touch.piao.qunar.com/
