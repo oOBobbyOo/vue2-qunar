@@ -7,7 +7,7 @@
       <span class="iconfont search-icon">&#xe693;</span>
       <input class="header-input-in" placeholder="输入城市/景点/游玩主题" />
     </div>
-    <router-link to='/'>
+    <router-link to='/city/in'>
       <div class="header-right">
         {{this.city}}
         <span class="iconfont arrow-icon">&#xe6dc;</span>

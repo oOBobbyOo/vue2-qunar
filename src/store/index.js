@@ -16,6 +16,15 @@ export default new Vuex.Store({
   state: {
     city: defaultCity || '武汉'
   },
-  mutations: {},
+  mutations: {
+    changeCity(state, city) {
+      state.city = city
+      try {
+        localStorage.city = city
+      } catch (err) {
+        console.log(err)
+      }
+    }
+  },
   actions: {}
 })

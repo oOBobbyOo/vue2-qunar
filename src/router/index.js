@@ -9,8 +9,18 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'home',
+      name: 'Home',
       component: () => import('@/views/home')
+    },
+    {
+      path: '/city/in',
+      name: 'CityIn',
+      component: () => import('@/views/city/in')
+    },
+    {
+      path: '/city/out',
+      name: 'CityOut',
+      component: () => import('@/views/city/out')
     },
     {
       path: '/detail/:id',

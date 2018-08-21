@@ -19,7 +19,7 @@ import HomeRecommend from './components/Recommend'
 import HomeWeekend from './components/Weekend'
 
 export default {
-  name: 'home',
+  name: 'Home',
   components: {
     HomeHeader,
     HomeSwiper,
