@@ -1,8 +1,7 @@
 {
-  "name": "vue3.0-elm",
-  "short_name": "vue3.0-elm",
-  "icons": [
-    {
+  "name": "vue3.0-qunar",
+  "short_name": "vue3.0-qunar",
+  "icons": [{
       "src": "/img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
