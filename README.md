@@ -2,7 +2,7 @@
 
 ```
 // git clone
-git clone https://github.com/oOBobbyOo/vuu3.0-qunar.git
+git clone https://github.com/oOBobbyOo/vue3.0-qunar.git
 
 // Project setup
 npm install
