@@ -14,7 +14,8 @@ npm run serve
 npm run build
 ```
 
-##预览
+## 预览
+
 ![qunar](./src/assets/qunar.gif)
 
 参考：http://touch.piao.qunar.com/
