@@ -1,8 +1,8 @@
-# Vue3.0+vue-router+vuex 开发去哪儿网 WebApp
+# vue2+vue-router+vuex 开发去哪儿网 WebApp
 
 ```
 // git clone
-git clone https://github.com/oOBobbyOo/vue3.0-qunar.git
+git clone https://github.com/oOBobbyOo/vue2-qunar.git
 
 // Project setup
 npm install
